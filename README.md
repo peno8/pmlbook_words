@@ -24,7 +24,7 @@
 | 변동 | variation |
 | 보간하다 | interpolate |
 | 보폭(특히 합성곱에서) | stride |
-| classifier | 분류기 |
+| 분류기 | classifier |
 | 불이익 | penalty |
 | 비지도(적) | unsupervised |
 | 사영하다 | project |
@@ -42,6 +42,7 @@
 | 일반적인 | general |
 | 임계값 | threshold |
 | 입력 | input |
+| 예측량 | predictor |
 | 예측하다 | predict |
 | 잡음 | noise |
 | 적응적 | adaptive |
@@ -55,6 +56,7 @@
 | 지도(적인) | supervised |
 | 직교 | orthogonal |
 | 초기화하다 | initialize |
+| 추정량 | estimator |
 | 추정하다 | estimate |
 | 출력 | output |
 | 퇴화 | degenerate |
